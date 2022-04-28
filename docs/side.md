@@ -3,7 +3,7 @@
 	    * [Java概述](docs/Java/J1-JavaSE/J1-1-Java概述.md)
 	    * [Java核心语法](docs/Java/J1-JavaSE/J1-2-Java核心语法.md)
 	    * [Java核心语法面试题补充](docs/Java/J1-JavaSE/J1-2.1-Java核心语法面试题补充.md)
-	    * [ava面向对象](docs/Java/J1-JavaSE/J1-3-Java面向对象.md)
+	    * [Java面向对象](docs/Java/J1-JavaSE/J1-3-Java面向对象.md)
 	    * [Java面向对象面试题补充](docs/Java/J1-JavaSE/J1-3.1-Java面向对象面试题补充.md)
 	* Java 进阶
 		* [J2-1-Java容器知识体系](docs/Java/J2-Java进阶/J2-1-Java容器知识体系.md)
