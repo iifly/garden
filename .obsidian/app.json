@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "imgs",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "strictLineBreaks": true
+}

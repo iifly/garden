@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "e6121c2012ec29ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6edb53d54a53881",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/home.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c6a05874c6876b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b492f1299a200a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "935d8fe831672f38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbb063ee2f513b19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "right": {
+    "id": "e7c8b87e62d8681c",
+    "type": "split",
+    "children": [
+      {
+        "id": "07745dfb559e7149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9b8493451082695",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30e637cace0cee2a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca8f81d55b9d675b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/home.md"
+              }
+            }
+          },
+          {
+            "id": "8519e35041b0764a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f19a73bc9e6cb0e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "active": "b6edb53d54a53881",
+  "lastOpenFiles": [
+    "docs/home.md",
+    "docs/side.md",
+    "docs/nav.md",
+    "docs/Java/J1-JavaSE/J1-3.1-Java面向对象面试题补充.md",
+    "README.md",
+    "imgs/JDK、JRE、JVM关系.png",
+    "docs/Java/J1-JavaSE/J1-3-Java面向对象.md",
+    "docs/Java/J1-JavaSE/J1-2.1-Java核心语法面试题补充.md",
+    "docs/Java/J1-JavaSE/J1-2-Java核心语法.md",
+    "docs/Java/J2-Java进阶/J2-1-Java容器知识体系.md"
+  ]
+}
